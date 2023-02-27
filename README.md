@@ -1,5 +1,5 @@
 # Sou Maria Eduarda Ferranti 
-- Aprendendo programação com o Scratch,Javascript
+- Aprendendo programação e Robótica
 
-## Estou cursando aulas de pensamento computacional no ano letivo de 2022
+## Estou cursando Programação e Robótica no ano letivo de 2023
 - Estudante do Novo Ensino Médio
